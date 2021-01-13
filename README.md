@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Welcome to my GitHub page :)
 
 <img src="github.gif" width="100">
 
