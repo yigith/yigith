@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Welcome to my GitHub page :)
 
+![alt github](github.gif)
+
 <!--
 **yigith/yigith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
